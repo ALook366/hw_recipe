@@ -1,0 +1,1 @@
+"""Backend модуль для Shopping List App"""
